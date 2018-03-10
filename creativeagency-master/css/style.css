@@ -1024,7 +1024,7 @@ header {
 .team-img {
     position: relative;
     margin-bottom: 20px;
-    z-index: 11;
+    z-index: 11; 
 }
 
 .team-img>img {
