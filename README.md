@@ -1,7 +1,7 @@
 # cifar2018
 
 
-## Template
+## Template from ColorLib
 
 For more awesome website templates make sure to visit https://colorlib.com
 
